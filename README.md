@@ -43,8 +43,8 @@ These types of attacks can be done to our mobile phones too so as users we have 
 
 
 
-## RESULTS OF EXPLOITATION
+# RESULTS OF EXPLOITATION
 
-Results I received by entering these commands such as call logs, text messages and system information can be considered as the results of this exploitation.
+# Results I received by entering these commands such as call logs, text messages and system information can be considered as the results of this exploitation.
 
-The ability to exploit an android device and find extremely personal information was explained step by step throughout this Report. It is clear that no matter how advanced the android operating system, it is still weak in some points. While this situation is an advantage for white hat hacking, such as identifying criminals, the disadvantages of this situation are relatively large. Therefore, we all need to make sure we are using our mobile phones in a manner of protect our privacy.
+## The ability to exploit an android device and find extremely personal information was explained step by step throughout this Report. It is clear that no matter how advanced the android operating system, it is still weak in some points. While this situation is an advantage for white hat hacking, such as identifying criminals, the disadvantages of this situation are relatively large. Therefore, we all need to make sure we are using our mobile phones in a manner of protect our privacy.
